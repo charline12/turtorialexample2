@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 training is not easy oh god what is going on?
+=======
+training is not easy my god oh god
+>>>>>>> rcl
